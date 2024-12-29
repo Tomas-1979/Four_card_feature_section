@@ -1,0 +1,6 @@
+.eslintrc.json
+.prettierrc
+queries.css.map
+queries.scss
+style.css.map
+style.scss
