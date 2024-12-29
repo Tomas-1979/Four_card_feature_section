@@ -1,3 +1,5 @@
+.gitignore
+.gitattributes
 .eslintrc.json
 .prettierrc
 queries.css.map
